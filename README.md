@@ -1,5 +1,5 @@
-# Genetic-Algorithm-Plays-Pong
-Genetic Algorithm (Evolutionary Algorithm) learns to play Pong 🏓
+# Genetic-Algorithm-Plays-Pong 🏓
+Genetic Algorithm evolves to populate Neural Network weights to predict the best paddle movement (up, down or stay put) to keep the Pygame Pong game running (that is, to return the ball).
 
 To train the neural network: python3 run.py train
 
